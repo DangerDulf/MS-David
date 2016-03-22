@@ -1,0 +1,6 @@
+Nomis
+Meine Idee ist eine Version eines Spielklassiker mit einem Twist.
+Es gibt eine bestimmte Menge an Feldern, die in einer Reihenfolge zum Beispiel aufleuchten oder blinken.
+Aufgabe des Spielers ist es dann, die entsprechenden Felder in umgekehrter Reihenfolge zu drücken bzw. anzutippen.
+Eine erweiterung dieses Konzepts ist natürlich auch möglich, bzw. mit Details wie der Anzahl und Art der Felder kann das Spiel verfeinert werden.
+Desweiteren bin ich hier erstmal auf die genaue Umsetzung nicht eingegangen, daher ist die Idee im Moment noch sehr offen und vage.
