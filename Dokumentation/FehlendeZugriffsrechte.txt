@@ -1,0 +1,9 @@
+Von den insgesamt 20 Repositories, auf die ich Zugriff haben sollte, fehlen diese Rechte noch bei den Repositories folgender Accounts:
+
+ Anger21
+ CurvLietzau
+
+ freddy420
+ hamidoc2
+ HarryGuib
+ giuliano1991
