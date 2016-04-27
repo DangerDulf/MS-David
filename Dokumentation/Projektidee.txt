@@ -88,3 +88,13 @@ Es ist dabei sehr wahrscheinlich, dass Sie (vielleicht auch erst später währen
 
 Viele Grüße,
 Markus Alpers
+
+=== Feedback Alpers, 2016-04-27 ===
+
+Beim letzten Mal habe ich einen wichtigen Hinweis nicht explizit gegeben, den Sie aber beachten müssen: Wie Sie ja selbst schreiben ist die Spielidee im Moment noch recht vage. Und genau das müssen Sie korrigieren, bevor Sie weiter machen können. Insbesondere müssen Sie sich überlegen, wie Sie das simple Grundkonzept so erweitern können, dass daraus ein umfangreiches Projekt wird.
+
+Die Erweiterung sollte aber auch einige weitergehende Interaktionsmöglichkeiten beinhalten. Hier sollten Sie schon zwei Stunden investieren.
+
+Arbeiten Sie erst danach an der strukt.html weiter.
+
+=== Feedback Ende ===
